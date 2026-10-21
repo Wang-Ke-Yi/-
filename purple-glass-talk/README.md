@@ -1,5 +1,13 @@
 # 左侧人物＋右侧紫色玻璃讲解面板
 
+## 第三段：高尔基体定位与 CTS 模块
+
+[下载第三段视频 MP4](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/golgi-localization.mp4) · [下载第三段 HyperFrames 工程](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/golgi-localization-project.zip)
+
+![第三段：胞质尾、跨膜区、stem 与模块化定位](golgi-preview.jpg)
+
+16.5 秒。先展示高尔基体内的定位，再展示胞质尾、跨膜区、stem 与腔内催化结构域的示意，最后汇总为 CTS 定位模块。保留原声，不加口播字幕或配乐。本段按用户要求保留清晰实验室背景，没有背景模糊或面板 backdrop blur。
+
 ## 第二段：启动子工程
 
 [下载第二段视频 MP4](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/promoter-engineering.mp4) · [下载第二段 HyperFrames 工程](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/promoter-engineering-project.zip)
