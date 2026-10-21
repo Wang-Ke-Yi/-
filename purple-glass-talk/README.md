@@ -1,5 +1,15 @@
 # 左侧人物＋右侧紫色玻璃讲解面板
 
+## 第二段：启动子工程
+
+[下载第二段视频 MP4](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/promoter-engineering.mp4) · [下载第二段 HyperFrames 工程](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/promoter-engineering-project.zip)
+
+![第二段：启动子调节、酶丰度和催化能力](promoter-preview.jpg)
+
+9.3 秒，沿用同一紫色玻璃面板、人物位置与字体。先把复杂性转化为设计机会，再依次展示启动子调节、酶丰度和催化能力。保留原始 AAC 音轨，不加口播字幕或配乐。图解为定性示意，不含测量数据。
+
+## 第一段：糖链多样性
+
 [下载视频 MP4](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/purple-glass-no-subtitles.mp4?v=side-panel) · [下载 HyperFrames 工程](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/hyperframes-project.zip?v=side-panel)
 
 ![左侧人物、右侧紫色半透明讲解面板预览](preview.jpg)
