@@ -1,5 +1,9 @@
 # 微流控视频修改版
 
+[下载修改版视频 MP4](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/video-revision/flow-cell-corrected.mp4) · [下载可编辑工程 ZIP](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/video-revision/flow-cell-hyperframes-project.zip)
+
+![修改后的图解预览：三个圆点已删除，两端圆孔与矩形主腔通过通道连接](preview.jpg)
+
 - `flow-cell-corrected.mp4`：修改后的成片，1920×1080、30 fps、19.4 秒，保留原声音轨。
 - `flow-cell-hyperframes-project.zip`：可编辑 HyperFrames 工程，包含输入原视频、图解源码、字体和合成脚本。解压后阅读 `README.zh-CN.md`。
 
