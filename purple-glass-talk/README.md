@@ -1,4 +1,12 @@
-# 左侧人物＋右侧紫色玻璃讲解面板
+# 紫色玻璃讲解视频
+
+## 第四段：整合酶与 DNA 状态写入（左侧面板）
+
+[下载第四段视频 MP4](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/integrase-state-writers.mp4) · [下载第四段 HyperFrames 工程](https://github.com/Wang-Ke-Yi/-/raw/refs/heads/main/purple-glass-talk/integrase-state-writers-project.zip)
+
+![第四段：左侧讲解面板、右侧原位人物](integrase-preview.jpg)
+
+28 秒。本段直接使用原片左侧预留空间放置紫色玻璃面板，保留完整构图、人物位置和清晰实验室背景，不做背景虚化、镜像延展、背景复制或面板 backdrop blur。保留原声，不加口播字幕或配乐。先展示组合 DNA 状态，再展示 attB/attP 交换生成 attL/attR 新连接位点与稳定状态，最后依次介绍 φBT1、TP901-1、Bxb1、φC31 四种候选和多层级编辑的概念。图解不指定具体 DNA 序列、靶点配对或已测得的正交性。
 
 ## 第三段：高尔基体定位与 CTS 模块
 
